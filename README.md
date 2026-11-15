@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Dinesh N
 
-<!--
-**dineshnandhan07/dineshnandhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Full Stack Developer** from Chennai, Tamil Nadu, India. I build user-friendly, accessible and responsive web applications.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- **MIMI**: a voice-based e-commerce website for visually challenged users, built with Python, Django and MySQL, with Text-to-Speech voice assistance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- Python full stack development (Django, JavaScript, MySQL)
+- Web accessibility and responsive design
+
+### 💼 Experience
+- **Web Development Intern**, Codebind Technologies (Apr 2025 - May 2025): built a responsive restaurant website with HTML5, CSS3 and responsive design.
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,django,mysql,git,github" alt="Python, JavaScript, HTML5, CSS3, Bootstrap, Django, MySQL, Git, GitHub" />
+</p>
+
+- **Languages:** Python, JavaScript
+- **Frontend:** HTML5, CSS3, Bootstrap, Responsive Web Design
+- **Backend:** Django
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+
+### 👯 Looking for
+- A web developer role where I can keep growing as a Python full stack developer.
+
+### 📫 Reach me
+- Portfolio: [dineshportfolio-nu.vercel.app](https://dineshportfolio-nu.vercel.app/)
+- LinkedIn: [linkedin.com/in/dineshwebdevelopers](https://linkedin.com/in/dineshwebdevelopers)
+- Email: dineshnandhan07@gmail.com
